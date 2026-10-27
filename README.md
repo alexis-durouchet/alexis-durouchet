@@ -3,7 +3,7 @@
 
 **Testeur logiciel QA en formation | Software QA Tester in Training**
 
-🎓 ENI École Informatique — Formation en test logiciel  
+🎓 ENI École Informatique — Formation en tests logiciel  
 🎯 Recherche de stage QA : **11 janvier – 5 mars 2027**  
 📍 Cagnes-sur-Mer | Nice, France
 
@@ -17,7 +17,7 @@
 
 ## 🇫🇷 Présentation
 
-Actuellement en reconversion professionnelle, je suis une formation de testeur logiciel à l'ENI École Informatique.
+Actuellement en reconversion professionnelle, je suis une formation de testeur logiciels à l'ENI École Informatique.
 
 Je développe mes compétences en conception et exécution de tests, en analyse des anomalies et en assurance qualité logicielle.
 
@@ -25,7 +25,7 @@ Mon objectif est de construire des bases solides en QA et d'évoluer progressive
 
 ### 🎯 Recherche de stage
 
-Je recherche un **stage en test logiciel du 11 janvier au 5 mars 2027**.
+Je recherche un **stage en tests logiciel du 11 janvier au 5 mars 2027**.
 
 Je souhaite intégrer une équipe QA pour mettre en pratique mes connaissances, participer aux activités de test et découvrir les méthodes de travail en entreprise.
 
